@@ -1,5 +1,5 @@
 ---
-name: " :art: Planning & Design issue template"
+name: "\U0001F3A8 Planning & Design issue template"
 about: 기획 및 디자인 이슈 템플릿입니다.
 title: ''
 labels: ''
